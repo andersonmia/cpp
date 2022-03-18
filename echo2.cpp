@@ -1,6 +1,7 @@
 #include<iostream>
+using namespace std;
 int main(){
-	std:: cout << "Hello world";
-	std::cout << "\nI am learning C++";
+	cout  << "Hello world";
+	cout << "\nI am learning C++";
 	return 0;
 }
